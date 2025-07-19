@@ -1,2 +1,2 @@
-# Yuchan-s-Leetcode-Practice
-Daily LeetCode Practice
+# Daily LeetCode Practice
+GitHub Repository to record my answers and daily progress.
