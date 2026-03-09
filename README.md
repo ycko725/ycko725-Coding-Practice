@@ -3,4 +3,5 @@ GitHub Repository created to learn the fundamentals and practice coding without 
 
 ### File Descriptions
 **30DaysOfPython** - Exercises by Asabeneh.
+<hr>
 **LeetCode** - Answers of LeetCode questions I solved.
